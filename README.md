@@ -19,7 +19,8 @@
       * Each field (4 in total) will have its own column. (id, userId, etc)
     4. As needed, style the HTML using Bootstrap's CSS styles. 
     5. If a post's userId is equal to 2. Make sure the whole row's background is red (#FF0000)
-    6. Write a test in the testing framework of your choice. The test should verifiy that a row where the userId equals 2 is using the correct style.
+    6. Write a test in the testing framework of your choice. 
+      *The test should verifiy that a row where the userId equals 2 is the correct color.
     7. Commit and Push your code to your new repository.
     8. Send us a pull request, we will review your code and get back to you. 
     
