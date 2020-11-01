@@ -6,7 +6,7 @@
 * [NodeJS](https://nodejs.org/en/) (and npm) will need to be installed
 
 ## Links
-* [Create React App](https://github.com/facebook/create-react-ap) - Boilerplate React App
+* [Create React App](https://github.com/facebook/create-react-app) - Boilerplate React App
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - API Documentation
 * [Bootstrap 4](https://getbootstrap.com/) - Boostrap Documentaiton
 
